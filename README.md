@@ -6,6 +6,7 @@ Un blog increi­ble para el[ curso de Git y Github](https://platzi.com/cursos/gi
 
 ## En este curso vemos de todo
 * Todos los comandos de Git
+* Flags más usados
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prÃ¡cticas
 * Trucos muy locos del profesor
